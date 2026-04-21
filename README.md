@@ -24,11 +24,9 @@ QuantumCalc is not just a calculator; it's a visual experience. Built with **Rea
 > [!TIP]
 > Move your mouse over the calculator to experience the dynamic 3D tilt and light reflection!
 
-| Desktop View | Mobile Optimization |
-| :---: | :---: |
-| ![Main Interface](https://via.placeholder.com/600x400/1a1a1a/61DAFB?text=Quantum+Calc+3D+View) | ![Mobile View](https://via.placeholder.com/300x500/1a1a1a/61DAFB?text=Responsive+Layout) |
-
-*(Note: Replace placeholders with actual screenshots from your `dist` or project view)*
+| Normal | Tilt | Tilt |
+| :---: | :---: | :---: |
+| ![Normal](public/1.png) | ![Tilt](public/2.png) | ![Tilt](public/3.png) |
 
 ---
 
@@ -89,4 +87,4 @@ The project prioritizes "Visual Excellence" as defined by modern web standards. 
 
 ---
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Imtiaz Ali
