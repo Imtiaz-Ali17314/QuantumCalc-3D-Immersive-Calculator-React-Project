@@ -88,3 +88,4 @@ The project prioritizes "Visual Excellence" as defined by modern web standards. 
 ---
 
 Developed with ❤️ by Imtiaz Ali
+
