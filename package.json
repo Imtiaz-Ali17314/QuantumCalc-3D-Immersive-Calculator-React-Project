@@ -2,7 +2,7 @@
   "name": "todo-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Imtiaz-Ali17314.github.io/QuantumCalc-3D-Immersive-Calculator-React-Project",
+  "homepage": "https://imtiazaly.github.io/QuantumCalc-3D-Immersive-Calculator-React-Project",
   "type": "module",
   "scripts": {
     "dev": "vite",

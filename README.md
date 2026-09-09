@@ -46,7 +46,7 @@ QuantumCalc is not just a calculator; it's a visual experience. Built with **Rea
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/Imtiaz-Ali17314/QuantumCalc-3D-Immersive-Calculator-React-Project
+    git clone https://github.com/imtiazaly/QuantumCalc-3D-Immersive-Calculator-React-Project
     ```
 
 2.  **Navigate to the project directory**:
